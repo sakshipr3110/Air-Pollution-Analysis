@@ -130,3 +130,10 @@ The findings emphasize the need for targeted pollution control strategies, espec
 
 Dataset sourced from Kaggle.  
 This project is created for learning, analysis, and portfolio purposes.
+
+---
+
+## ✨ Author 
+
+Sakshi Prakash | prakashsakshi31@gmail.com | www.linkedin.com/in/prakash-sakshi
+
